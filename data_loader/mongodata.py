@@ -5,7 +5,7 @@ import os
 # -------------------------------
 # ⚡ User Configuration
 # -------------------------------
-MONGO_URI = "mongodb+srv://sharyuasre169_db_user:panda169@cluster0.u4160g.mongodb.net/"  # <-- replace with your URI
+MONGO_URI = "mongodb+srv://sharyuasre169_db_user:panda169@cluster0.uysrodh.mongodb.net/"  # <-- replace with your URI
 DATABASE_NAME = "AIML"       # <-- replace with your DB name
 COLLECTION_NAME = "laptop_price"   # <-- replace with your Collection name
 
